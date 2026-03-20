@@ -1,0 +1,14 @@
+C:\Users\Andrews\Desktop\ProyectoBST\bin\Debug\net9.0\ProyectoBST.exe
+C:\Users\Andrews\Desktop\ProyectoBST\bin\Debug\net9.0\ProyectoBST.deps.json
+C:\Users\Andrews\Desktop\ProyectoBST\bin\Debug\net9.0\ProyectoBST.runtimeconfig.json
+C:\Users\Andrews\Desktop\ProyectoBST\bin\Debug\net9.0\ProyectoBST.dll
+C:\Users\Andrews\Desktop\ProyectoBST\bin\Debug\net9.0\ProyectoBST.pdb
+C:\Users\Andrews\Desktop\ProyectoBST\obj\Debug\net9.0\ProyectoBST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrews\Desktop\ProyectoBST\obj\Debug\net9.0\ProyectoBST.AssemblyInfoInputs.cache
+C:\Users\Andrews\Desktop\ProyectoBST\obj\Debug\net9.0\ProyectoBST.AssemblyInfo.cs
+C:\Users\Andrews\Desktop\ProyectoBST\obj\Debug\net9.0\ProyectoBST.csproj.CoreCompileInputs.cache
+C:\Users\Andrews\Desktop\ProyectoBST\obj\Debug\net9.0\ProyectoBST.dll
+C:\Users\Andrews\Desktop\ProyectoBST\obj\Debug\net9.0\refint\ProyectoBST.dll
+C:\Users\Andrews\Desktop\ProyectoBST\obj\Debug\net9.0\ProyectoBST.pdb
+C:\Users\Andrews\Desktop\ProyectoBST\obj\Debug\net9.0\ProyectoBST.genruntimeconfig.cache
+C:\Users\Andrews\Desktop\ProyectoBST\obj\Debug\net9.0\ref\ProyectoBST.dll
